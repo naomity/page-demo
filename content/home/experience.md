@@ -37,7 +37,7 @@ experience:
     company_url: ''
     location: Hangzhou, China
     date_start: '2019-06-01'
-    date_end: '2019-8-31'
+    date_end: '2019-08-31'
     description: |2-
         * Built natural language processing algorithms to perform text classification on online e-commerce website customer reviews. Results were used directly by Product team to analyze customer feedback.
         * Achieved accuracy more than 0.9 for all 17 labels in multi-label classification by using different data augmentation methods, state-of -the-art model structures and mechanisms.
