@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 100%
   icon: laptop-code
-  icon_pack: fab
+  icon_pack: fas
   name: Deep Learning
 - description: 100%
   icon: chart-line

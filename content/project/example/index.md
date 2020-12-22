@@ -1,6 +1,6 @@
 ---
 title: Medical Image Analysis
-summary: An example of using the in-built project page.
+summary: A research on multi-organ segmentation and lung dieease classification based on chest x-ray images.
 tags:
 - Deep Learning
 date: "2020-01-27T00:00:00Z"

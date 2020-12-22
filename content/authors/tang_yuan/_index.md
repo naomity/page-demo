@@ -9,9 +9,9 @@ superuser: true
 role: Student keen in deep learning and software engineering
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Nanyang Technological University Singapore
-  # url: https://www.stanford.edu/
+# organizations:
+# - name: Nanyang Technological University Singapore
+#   # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests are conputer vision and natrual language processing reseach and their applications. 
@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: Bachelor of Engineering
-    institution: Stanford University
+    institution: Nanyang Technological University Singapore
     year: 2021
 
 # Social/Academic Networking
