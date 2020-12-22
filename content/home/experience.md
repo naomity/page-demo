@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Internship Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Data Scientist Intern
+    company: Shopee
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Sinagpore
+    date_start: '2020-06-01'
+    date_end: '2020-08-13'
     description: |2-
-        Responsibilities include:
+        * Implemented class embedding transformer to improve multilingual transformer by an average of 0.58 BLEU score; it allowed additional features in training, enabling expansion to all machine translation tasks in Shopee.
+        * Designed experiments to determine best practice in multilingual text preprocessing and tokenization model training to boost machine translation performance while reducing memory consumption; increased performance by 2 BLEU scores and reduced training time by 75%.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Algorithm Engineer Intern
+    company: Hikvision
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Hangzhou, China
+    date_start: '2019-06-01'
+    date_end: '2019-8-31'
+    description: |2-
+        * Built natural language processing algorithms to perform text classification on online e-commerce website customer reviews. Results were used directly by Product team to analyze customer feedback.
+        * Achieved accuracy more than 0.9 for all 17 labels in multi-label classification by using different data augmentation methods, state-of -the-art model structures and mechanisms.
+
+  - title: Data Analyst Intern
+    company: ViSenze
+    company_url: ''
+    location: Sinagpore
+    date_start: '2019-03-01'
+    date_end: '2019-5-31'
+    description: |2-
+        * Developed python scripts to build standardized deep learning datasets for non-technical staff to preprocess data.
+        * Evaluated classification models on 8 tasks by analyzing metrics and edge cases to explain flaws and suggest changes.
+        * Analysed user queries from 10 clients by gathering statistics on usage pattern to illustrate insights on user behavior.
 ---
