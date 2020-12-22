@@ -6,7 +6,7 @@ title: Tang Yuan
 superuser: true
 
 # Role/position/tagline
-role: Student keen in deep learning and software engineering
+role: keen in deep learning and software engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -47,7 +47,7 @@ experience:
     company_url: ''
     location: Sinagpore
     date_start: '2019-03-01'
-    date_end: '2019-5-31'
+    date_end: '2019-05-31'
     description: |2-
         * Developed python scripts to build standardized deep learning datasets for non-technical staff to preprocess data.
         * Evaluated classification models on 8 tasks by analyzing metrics and edge cases to explain flaws and suggest changes.
